@@ -28,5 +28,8 @@ header>nav.navbar .ae-btn{
 
  #most-wanted{
     background-image: url(img/jumbo-bg.png);
-    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 4rem;
 }
