@@ -33,3 +33,7 @@ header>nav.navbar .ae-btn{
     background-size: cover;
     background-position-y: 4rem;
 }
+
+header .dropdown-menu.show{
+    display: flex;
+}
