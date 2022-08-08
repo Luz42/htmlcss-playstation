@@ -11,13 +11,22 @@
     width: 75px;
 }
 
-
-
+.ae-btn{
+    border-radius: 25px;
+}
 
 /*************************************************
     CONTENT
  *************************************************/
-#most-wanted{
+ header>nav.navbar a{
+    color: black;
+}
+
+header>nav.navbar .ae-btn{
+    padding-top: 5px;
+}
+
+ #most-wanted{
     background-image: url(img/jumbo-bg.png);
     
 }
