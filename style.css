@@ -59,6 +59,14 @@ header .dropdown-item:hover{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
 }
 
+#row-card .card:hover img{
+    transform: translateY(-10px);
+}
+
+#row-card .card img{
+    transition: transform 500ms linear;
+}
+
 #new-releases{
     background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
     background-position: center;
