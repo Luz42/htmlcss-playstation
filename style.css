@@ -68,7 +68,24 @@ header .dropdown-item:hover{
 }
 
 #presentation-ps5 .card:hover{
-    opacity: 1 !important;
+    opacity: 1 !important; 
+    border-bottom: #00439c solid 2px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+}
+
+.ae-border-bottom{
+    border-bottom: #00439c solid 2px !important;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+}
+
+#presentation-ps5 .card{
+    border: 0;
 }
 
 #new-releases{
