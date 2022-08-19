@@ -67,6 +67,10 @@ header .dropdown-item:hover{
     transition: transform 500ms linear;
 }
 
+#presentation-ps5 .card:hover{
+    opacity: 1 !important;
+}
+
 #new-releases{
     background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
     background-position: center;
